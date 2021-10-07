@@ -1,2 +1,14 @@
 # website-go
-Simple website with golang and gofiber
+Just simple website written with go. framework [GoFiber](https://gofiber.io)
+
+# Create
+
+```
+go build
+```
+
+```
+./main
+```
+
+visit https://localhost:5000
