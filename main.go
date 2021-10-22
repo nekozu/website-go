@@ -9,5 +9,5 @@ func main() {
 		    return ctx.SendFile("index.html")
    })
   
-    app.Listen(":3000")
+   log.Fatal(app.Listen(":3000"))
 }
